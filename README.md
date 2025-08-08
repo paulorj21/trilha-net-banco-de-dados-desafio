@@ -46,7 +46,7 @@ Você deverá criar diversas consultas, com o objetivo de retornar os dados a se
 
 ![Exercicio 1](Imagens/1.png)
 
-## 2 - Buscar o nome e ano dos filmes, ordenados por ordem crescente pelo ano
+## 2 - Buscar o nome, ano e duração dos filmes, ordenados em ordem crescente pelo ano
 
 ![Exercicio 2](Imagens/2.png)
 
@@ -62,15 +62,15 @@ Você deverá criar diversas consultas, com o objetivo de retornar os dados a se
 
 ![Exercicio 5](Imagens/5.png)
 
-## 6 - Buscar os filmes com a duracao maior que 100 e menor que 150, ordenando pela duracao em ordem crescente
+## 6 - Buscar os filmes com a duracao maior que 100 e menor que 150, ordenando pela duração em ordem crescente
 
 ![Exercicio 6](Imagens/6.png)
 
-## 7 - Buscar a quantidade de filmes lançadas no ano, agrupando por ano, ordenando pela duracao em ordem decrescente
+## 7 - Buscar a quantidade de filmes lançados no ano, ordenando pela quantidade em ordem decrescente
 
 ![Exercicio 7](Imagens/7.png)
 
-## 8 - Buscar os Atores do gênero masculino, retornando o PrimeiroNome, UltimoNome
+## 8 - Buscar os Atores do gênero masculino, retornando o PrimeiroNome e UltimoNome
 
 ![Exercicio 8](Imagens/8.png)
 
